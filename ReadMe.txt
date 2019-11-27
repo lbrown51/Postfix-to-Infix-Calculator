@@ -1,7 +1,3 @@
-Postfix to Infix Calculator
-
-
-
 Contact Info : Lenny Brown || lbrown51@u.rochester.edu
 
 Description:
