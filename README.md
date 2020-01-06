@@ -2,7 +2,7 @@ Postfix to Infix Calculator
 
 
 
-Contact Info : Lenny Brown || lbrown51@u.rochester.edu
+Contact Info : Lenny Brown
 
 Description:
 This is a postfix to infix calculator. It uses to stacks and queues to rearrange numbers. 
